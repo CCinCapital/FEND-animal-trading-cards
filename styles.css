@@ -1,1 +1,47 @@
 /* add your CSS here */
+html, body {
+	font-family: Times; 
+}
+
+div {
+	border: 1px solid #CCC;
+	width: 320px;
+	box-shadow: 5px 5px 10px #CCC;
+}
+
+h3 {
+	padding-left: 10px;
+	font-size: 30px;
+}
+
+img {
+	width: 300px;
+	padding-left: 10px;
+}
+
+#info-wraper {
+	margin: 10px;
+	width: 298px;
+	box-shadow: none;
+}
+
+#fun-fact {
+	font-style: italic;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+ul {
+	list-style: none;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+span {
+	font-weight: 800;
+}
+
+p {
+	padding-left: 10px;
+	padding-right: 10px;
+}

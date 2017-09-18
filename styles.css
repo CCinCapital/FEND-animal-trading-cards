@@ -3,45 +3,45 @@ html, body {
 	font-family: Times; 
 }
 
-div {
+.wraper {
 	border: 1px solid #CCC;
 	width: 320px;
 	box-shadow: 5px 5px 10px #CCC;
 }
 
-h3 {
+.name {
 	padding-left: 10px;
 	font-size: 30px;
 }
 
-img {
+.image {
 	width: 300px;
 	padding-left: 10px;
 }
 
-#info-wraper {
+.info {
 	margin: 10px;
 	width: 298px;
 	box-shadow: none;
 }
 
-#fun-fact {
+.fun-fact {
 	font-style: italic;
 	padding-left: 10px;
 	padding-right: 10px;
 }
 
-ul {
+.list {
 	list-style: none;
 	padding-left: 10px;
 	padding-right: 10px;
 }
 
-span {
+.item {
 	font-weight: 800;
 }
 
-p {
+.description {
 	padding-left: 10px;
 	padding-right: 10px;
 }
